@@ -1,0 +1,3 @@
+1password-cli
+docker-desktop
+dtvp-utils
