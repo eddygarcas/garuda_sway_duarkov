@@ -1,0 +1,11 @@
+1password
+1password-cli
+docker-desktop
+dtvp-utils
+lazydocker-bin
+pgvector
+popcorntime-bin
+sway-dynamic-names-git
+sworkstyle
+yay-bin
+yay-bin-debug
